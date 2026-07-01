@@ -369,4 +369,4 @@ operativos y configuracion principal para el entorno peruano.
 - Aldo
 - Kenyi
 - Igarlos
-- Juan Diego
+- Gabriel
